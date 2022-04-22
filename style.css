@@ -1,0 +1,24 @@
+html {
+    color: red;
+    padding: 0;
+    margin: 0;
+    background-color: none;
+}
+
+canvas {
+    background: #00ff00;
+    background: -webkit-linear-gradient(#5c5e5c, #9986a5);
+    background-color: lightgreen;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    color: blue;
+    margin: auto;
+    font-family: monospace;
+}
+
+h4 {
+    color: green;
+}
